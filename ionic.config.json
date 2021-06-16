@@ -1,0 +1,8 @@
+{
+  "name": "bmgionicappdemo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "e5c0d804"
+}
